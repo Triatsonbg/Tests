@@ -1,0 +1,23 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "Repo for automation tests for the webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triatsonbg/Tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Triatsonbg/Tests/issues"
+  },
+  "homepage": "https://github.com/Triatsonbg/Tests#readme",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
